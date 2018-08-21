@@ -1,0 +1,1 @@
+bng_food_data = pd.read_json("food prices dataset.json", orient="split")
