@@ -1,0 +1,1 @@
+trips_data.loc[(trips_data['subscription_type']=='Customer')&(trips_data['duration'] >= 500)]

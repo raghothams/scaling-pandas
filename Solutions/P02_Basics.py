@@ -1,0 +1,1 @@
+trips_data.shape[0]

@@ -1,0 +1,1 @@
+trips_data.loc[trips_data['end_station_id'].isin(end_stations)]

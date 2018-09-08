@@ -1,0 +1,1 @@
+trips_data['bike_id'].nunique()

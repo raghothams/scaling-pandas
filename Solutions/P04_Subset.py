@@ -1,0 +1,1 @@
+trips_data.loc[trips_data['start_station_id']==trips_data['end_station_id']]
